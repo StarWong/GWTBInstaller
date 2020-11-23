@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/11/22 19:47:34.271.dproj,C:\Users\Ranger\Documents\RAD Studio\Projects\Project1.dproj=D:\Ranger\Documents\Visual Studio 2015\Source\Repos\GWTBInstaller\Inject\Inject.dproj</Transaction>
+    <Transaction>2020/11/22 19:47:51.968.pas,C:\Users\Ranger\Documents\RAD Studio\Projects\Unit1.pas=</Transaction>
+    <Transaction>2020/11/22 19:47:51.968.dfm,C:\Users\Ranger\Documents\RAD Studio\Projects\Unit1.dfm=</Transaction>
+    <Transaction>2020/11/23 13:08:13.062.dproj,D:\Ranger\Documents\Visual Studio 2015\Source\Repos\GWTBInstaller\Inject\Inject.dproj=D:\Ranger\Documents\Visual Studio 2015\Source\Repos\GWTBInstaller\Inject\GWTB_Launcher.dproj</Transaction>
+    <Transaction>2020/11/23 13:08:52.858.dproj,D:\Ranger\Documents\Visual Studio 2015\Source\Repos\GWTBInstaller\Inject\GWTB_Launcher.dproj=D:\Ranger\Documents\Visual Studio 2015\Source\Repos\GWTBInstaller\Inject\Launcher.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
