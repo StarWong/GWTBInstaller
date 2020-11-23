@@ -1,6 +1,6 @@
-# GWTBInstaller
+# GWTBInstaller  
 
-usages:
+usages:  
 a tool for  inject gwtoolbox.dll into your gw client  
 complied with with the ide: delphi 2010,download:http://altd.embarcadero.com/download/RADStudio2010/delphicbuilder_2010_3615_win.iso  
 before you complie the source ,you need to install RaizeComponents first   
