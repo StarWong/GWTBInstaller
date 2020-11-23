@@ -8,7 +8,7 @@ RaizeComponents:http://www.2ccc.com/article.asp?articleid=282
 
 
 说明:  
-这个一个把激战助手的dll注入到激战客户端里的工具  
+这是一个把激战助手的dll注入到激战客户端里的工具  
 编译工具是:delphi 2010,你可以在这里下载此IDE:http://altd.embarcadero.com/download/RADStudio2010/delphicbuilder_2010_3615_win.iso  
 在你编译源码前，你需要安装一个第三方的控件:RaizeComponents  
 你可以在:http://www.2ccc.com/article.asp?articleid=282 下载此RaizeComponents控件  
